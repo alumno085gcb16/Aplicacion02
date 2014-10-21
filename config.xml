@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Especialidad Programacion CBTis 16</name>
+    <name>Dia de muertos</name>
 
     <description>
-        Aplicacion 1
+        Aplicacion 2
     </description>
 
     <preference name="phonegap-version" value="3.1.0" />
